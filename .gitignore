@@ -1,0 +1,5 @@
+node_modules
+
+
+
+# para instalar o node_modules novamente é só escrever no terminal npm install -g nodemon
